@@ -1,0 +1,9 @@
+# Node.js modules
+node_modules/
+
+# dotenv environment variables file
+.env
+.env.*
+
+# Lock files
+package-lock.json
